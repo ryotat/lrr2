@@ -1,8 +1,5 @@
 # Matlab code for "Logistic Regression for Single Trial EEG Classification" (NIPS 2006)
 
-## Download
- * [lrr2.zip (12kb)](attachment:lrr2.zip)
-
 ## Instructions
 Please unzip the attachment. The main solver routine is called `lrr2.m`
 You should preprocess each epoch into convariance matrix and apply
